@@ -1,28 +1,14 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_memcpy.c                                        :+:      :+:    :+:   */
+/*   ft_strmapi.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: jwolfram <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/04/02 18:19:07 by jwolfram          #+#    #+#             */
-/*   Updated: 2024/04/09 17:43:45 by jwolfram         ###   ########.fr       */
+/*   Created: 2024/04/11 11:56:05 by jwolfram          #+#    #+#             */
+/*   Updated: 2024/04/11 11:56:53 by jwolfram         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
-
-void	*ft_memcpy(void *dest, const void *src, size_t n)
-{
-	size_t	i;
-
-	i = 0;
-	if (!dest && !src && n)
-		return (dest);
-	while (i < n)
-	{
-		*(char *)(dest + i) = *(char *)(src + i);
-		i++;
-	}
-	return (dest);
-}
+char	*ft_strmapi(char const *s, char (*f)(unsigned int, char))
+{}

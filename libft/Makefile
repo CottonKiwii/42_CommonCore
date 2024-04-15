@@ -1,10 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: jwolfram <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/04/12 18:21:08 by jwolfram          #+#    #+#              #
+#    Updated: 2024/04/12 18:29:33 by jwolfram         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 NAME = libft.a
 
 CC = cc
 
 CFLAGS = -Wall -Werror -Wextra -c
-
-DEPS = libft.h
 
 SRC = ft_isalpha.c \
 	  ft_isdigit.c \
@@ -32,6 +42,7 @@ SRC = ft_isalpha.c \
 	  ft_substr.c \
 	  ft_strjoin.c \
 	  ft_strtrim.c \
+	  ft_split.c \
 	  ft_itoa.c \
 	  ft_putchar_fd.c \
 	  ft_putstr_fd.c \
@@ -42,7 +53,7 @@ SRC = ft_isalpha.c \
 
 OBJ = ${SRC:.c=.o}
 
-LIBC = ar rcs
+LIBC = ar -rcs
 
 RM = rm -rf
 
@@ -53,10 +64,6 @@ ${NAME}: ${OBJ}
 
 %.o: %.c
 	${CC} ${CFLAGS} $< -I. -o $@
-
-so:
-	${CC} -nostartfiles -fPIC ${CFLAGS} ${SRC}
-	gcc -nostartfiles -shared -o libft.so ${OBJ}
 
 clean:
 	${RM} ${OBJ}

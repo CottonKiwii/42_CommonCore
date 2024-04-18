@@ -9,7 +9,7 @@ This is a little Helper on how to do certain things with Github that help improv
 2. Create your Github Repository
 
 3. In your already created 42 Folder (f.ex. Libft) on your PC
-    ▫️ ´git remote add <name> <github repository ssh url>´
+    - ´git remote add <name> <github repository ssh url>´
 
 4. Check your Remote Repositories
-    ▫️ ´git remote -v´
+    - ´git remote -v´

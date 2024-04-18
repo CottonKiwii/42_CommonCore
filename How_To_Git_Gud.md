@@ -34,7 +34,7 @@ Submodules are basically links to other Repositories in another Repository on yo
 
 1. Clone the Main Repository somewhere on your PC
 2. Add the Submodule in the Main Repository
-    - `git submodule add <sub repository ssh url`
+    - `git submodule add <sub repository ssh url>`
 3. Push the changes made to the Main Repository
 
 Now you should be able to see and click on the Submodule in your Main Repository on Github.

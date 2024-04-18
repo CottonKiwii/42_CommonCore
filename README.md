@@ -6,7 +6,7 @@ This contains all the projects I worked on during my time at 42 Vienna.\
 ## Github Helper
 
 If you need some advice on how to set up some stuff on Github, take a look at my \
-✨ [How to Git Gud Guide](https://github.com/CottonKiwii/CommonCore/blob/main/How_To_Git_Gud.md) ✨
+✨ [How to Git Gud Guide](./How_To_Git_Gud.md) ✨
 
 ## Discretion Advised
 

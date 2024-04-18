@@ -1,0 +1,45 @@
+------
+HOW TO GIT GUD
+------
+1) How to add Git Remote Repository
+------
+	Step 1 - Add your 42 SSH Key to your Github
+	
+	Step 2 - Create your Github Repository
+
+	Step 3 - In your already created 42 Folder (f.ex. Libft)
+				-> git remote add <name> <github repository ssh key>
+
+	(Step 4 - Check your Remote Repositories)
+				-> git remote -v
+------
+2) How to push to both Repositories with one Command
+------
+	Info - You can also first add the github repository
+
+	Step 1 - Create a new Remote for both Repositories
+				-> git remote add <name> <42 repository ssh key>
+	
+	Step 2 - Register first Remote URL (in this case the 42 one)
+				-> git remote set-url --add --push <name> <42 repository ssh key>
+	
+	Step 3 - Register second Remote URL (in this case the github one)
+				-> git remote set-url --add --push <name> <github repository ssh key>
+	
+	Step 4 - Push your Project using the new Remote
+				-> git push <name>
+------
+3) How to add Submodules (f.ex. Libft) to a big Repository (f.ex. Common Core)
+------
+	Info - The Submodule needs its own Repository on Github and needs to have something Pushed to it
+
+	Step 1 - Create a Github Repository (in this case called 'CommonCore')
+	
+	Step 2 - Clone it somewhere on your PC
+
+	Step 3 - In your CommonCore Repository on the PC, add the Submodule
+				-> git submodule add <submodule ssh key>
+
+	Step 4 - Push the changes made to your CommonCore Repository
+	
+	Step 5 - Now you should be able to see and click on the Submodule in your CommonCore Repository on Github

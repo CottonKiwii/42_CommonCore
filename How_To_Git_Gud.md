@@ -8,7 +8,7 @@ This is a little Helper on how to do certain things with Github that help improv
     - https://github.com/settings/keys
 2. Create your Github Repository
     - *f.ex. libft, ft_printf, minishell, ...*
-3. In your already created 42 Folder on your PC type:
+3. In your already created Project Repository on your PC type:
     - `git remote add <name> <github repository ssh url>`
 4. Check your Remote Repositories
     - `git remote -v`
@@ -26,8 +26,19 @@ This is a little Helper on how to do certain things with Github that help improv
 
 ## How to add Submodules to a Repository
 
-Submodules are links to other Repositories on your Github Account. They help to keep big Projects organized.
+Submodules are basically links to other Repositories in another Repository on your Github Account. They help to keep big Projects organized.
 
 ### To do this you need:
-- A main Repository
-- A sub Repository with at least something committed to it
+- A Main Repository
+- A Sub Repository with at least Something pushed
+
+1. Clone the Main Repository somewhere on your PC
+2. Add the Submodule in the Main Repository
+    - `git submodule add <sub repository ssh url`
+3. Push the changes made to the Main Repository
+
+Now you should be able to see and click on the Submodule in your Main Repository on Github.
+
+
+### *New Instructions might be added later...*
+

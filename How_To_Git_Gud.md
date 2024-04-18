@@ -20,7 +20,7 @@ This is a little Helper on how to do certain things with Github that help improv
 2. Register the first Remote URL
     - `git remote set-url --add --push <name> <first repository ssh url>`
 3. Register the second Remote URL
-    - `git remote set-url --add --push <name> <second repository ssh url`
+    - `git remote set-url --add --push <name> <second repository ssh url>`
 4. Push your Project using the new Remote
     - `git push <name>`
 

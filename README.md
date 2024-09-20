@@ -18,3 +18,17 @@ Before you even look at my code, ask yourself:
 - Did I ask any peer that might know?
 
 Good luck on your projects! 💖
+
+## Current Project
+### 💜 Pipex 💜
+This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
+
+## Finished Projects
+### 0️⃣ Milestone 0️
+- [Libft](https://github.com/CottonKiwii/libft)
+### 1️⃣ Milestone 1
+- [Ft_Printf](https://github.com/CottonKiwii/ft_printf)
+- [Get_Next_Line](https://github.com/CottonKiwii/get_next_line)
+- [Born2BeRootlibft](https://github.com/CottonKiwii/born2beroot)
+### 2️⃣ Milestone 2
+- [Push_Swap](https://github.com/CottonKiwii/push_swap)

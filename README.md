@@ -20,8 +20,8 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Project
-### 💜 Pipex 💜
-This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
+### 🩷 So_Long 🩷
+This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.
 
 ## Finished Projects
 ### 0️⃣ Milestone 0️
@@ -32,3 +32,4 @@ This project aims to deepen your understanding of the two concepts that you alre
 - [Born2BeRootlibft](https://github.com/CottonKiwii/born2beroot)
 ### 2️⃣ Milestone 2
 - [Push_Swap](https://github.com/CottonKiwii/push_swap)
+- [Pipex](https://github.com/CottonKiwii/pipex)

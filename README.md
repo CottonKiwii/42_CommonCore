@@ -18,3 +18,18 @@ Before you even look at my code, ask yourself:
 - Did I ask any peer that might know?
 
 Good luck on your projects! 💖
+
+## Current Project
+### 🩷 So_Long 🩷
+This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.
+
+## Finished Projects
+### 0️⃣ Milestone 0️
+- [Libft](https://github.com/CottonKiwii/libft)
+### 1️⃣ Milestone 1
+- [Ft_Printf](https://github.com/CottonKiwii/ft_printf)
+- [Get_Next_Line](https://github.com/CottonKiwii/get_next_line)
+- [Born2BeRootlibft](https://github.com/CottonKiwii/born2beroot)
+### 2️⃣ Milestone 2
+- [Push_Swap](https://github.com/CottonKiwii/push_swap)
+- [Pipex](https://github.com/CottonKiwii/pipex)

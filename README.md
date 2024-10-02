@@ -20,8 +20,8 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Project
-### 🩷 So_Long 🩷
-This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.
+### ❤️ Minishell ❤️
+The objective of this project is for you to create a simple shell.
 
 ## Finished Projects
 ### 0️⃣ Milestone 0️
@@ -33,3 +33,4 @@ This project is a small 2D game with minilibx. You'll learn about textures, spri
 ### 2️⃣ Milestone 2
 - [Push_Swap](https://github.com/CottonKiwii/push_swap)
 - [Pipex](https://github.com/CottonKiwii/pipex)
+- [So_Long](https://github.com/CottonKiwii/so_long)

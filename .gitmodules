@@ -16,3 +16,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:CottonKiwii/pipex.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:CottonKiwii/so_long.git

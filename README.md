@@ -19,9 +19,12 @@ Before you even look at my code, ask yourself:
 
 Good luck on your projects! 💖
 
-## Current Project
+## Current Projects
 ### ❤️ Minishell ❤️
 The objective of this project is for you to create a simple shell.
+
+### 🧡 Philosophers 🧡
+This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 
 ## Finished Projects
 ### 0️⃣ Milestone 0️

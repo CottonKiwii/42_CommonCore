@@ -20,14 +20,11 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-### ❤️ Minishell ❤️
-The objective of this project is for you to create a simple shell.
-
 ### 🧡 Philosophers 🧡
 This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 
 ## Finished Projects
-### 0️⃣ Milestone 0️
+### 0️⃣ Milestone 0
 - [Libft](https://github.com/CottonKiwii/libft)
 ### 1️⃣ Milestone 1
 - [Ft_Printf](https://github.com/CottonKiwii/ft_printf)
@@ -37,3 +34,5 @@ This project aims to teach concurrent programming, focusing on multithreading an
 - [Push_Swap](https://github.com/CottonKiwii/push_swap)
 - [Pipex](https://github.com/CottonKiwii/pipex)
 - [So_Long](https://github.com/CottonKiwii/so_long)
+### 3️⃣ Milestone 3
+- [Minishell](https://github.com/CottonKiwii/minishell)

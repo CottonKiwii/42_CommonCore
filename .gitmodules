@@ -19,3 +19,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = git@github.com:CottonKiwii/so_long.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:CottonKiwii/minishell.git

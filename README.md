@@ -20,8 +20,6 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-### 🧡 Philosophers 🧡
-This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 
 ## Finished Projects
 ### 0️⃣ Milestone 0
@@ -36,3 +34,4 @@ This project aims to teach concurrent programming, focusing on multithreading an
 - [So_Long](https://github.com/CottonKiwii/so_long)
 ### 3️⃣ Milestone 3
 - [Minishell](https://github.com/CottonKiwii/minishell)
+- [Philosophers](https://github.com/CottonKiwii/philosophers)

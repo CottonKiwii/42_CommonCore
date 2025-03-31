@@ -22,3 +22,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:CottonKiwii/minishell.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:CottonKiwii/philosophers.git

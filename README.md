@@ -20,7 +20,11 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-
+### 💛 Cub3D 💛
+This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. \
+It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you'll have to find your way.
+### 💚 NetPractice 💚
+NetPractice is a general practical exercise to let you discover networking.
 ## Finished Projects
 ### 0️⃣ Milestone 0
 - [Libft](https://github.com/CottonKiwii/libft)

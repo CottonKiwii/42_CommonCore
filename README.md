@@ -20,10 +20,9 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-### 💚 CPP Module 00 💚
-This first module of C++ is designed to help you understand the specificities of the language when compared to C. \
-Time to dive into Object-Oriented Programming!
-### 💙 NetPractice 💙
+### 💜 CPP Module 02 💜
+This module is designed to help you understand ad-hoc polymorphism, function overloading, and orthodox canonical classes in C++.
+### 🩷 NetPractice 🩷
 NetPractice is a general practical exercise to let you discover networking.
 ## Finished Projects
 ### 0️⃣ Milestone 0
@@ -41,3 +40,4 @@ NetPractice is a general practical exercise to let you discover networking.
 - [Philosophers](https://github.com/CottonKiwii/philosophers)
 ### 4️⃣ Milestone 4
 - [Cub3D](https://github.com/beng1307/Cub3d)
+- [CPP Modules](https://github.com/CottonKiwii/CPP_Modules)

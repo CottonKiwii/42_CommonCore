@@ -20,7 +20,7 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-### ❤️ CPP Module 04 ❤️
+### 🧡 CPP Module 04 🧡
 This module is designed to help you understand subtype polymorphism, abstract classes, and interfaces in C++.
 ## Finished Projects
 ### 0️⃣ Milestone 0

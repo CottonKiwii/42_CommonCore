@@ -7,8 +7,8 @@ This is a little Helper on how to do certain things with Github that help improv
 ## How to add a Github Remote Repository
 
 1. Create an SSH Key
-    - `ssh/keygen`
-    - It gives you an option, where to save it, but usually it is found in your `home/.ssh/` \
+    - `ssh-keygen`
+    - It gives you an option, where to save it, but usually it is found in your `~/.ssh/` \
       *(Don't forget to show hidden files in your explorer!)*
 2. Add your 42 Public SSH Key (`id_rsa.pub`) to your Github
     - https://github.com/settings/keys
@@ -40,9 +40,9 @@ This is a little Helper on how to do certain things with Github that help improv
    - `git config --global user.name "<your github username"`
 2. Easy way to deal with a merge conflict:
    ```
-     git stash
-     git pull
-     git stash pop
+     $>git stash
+     $>git pull
+     $>git stash pop
    ```
    *(If it still has issues, ask a peer :D )*
 

@@ -20,8 +20,8 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-### 🧡 CPP Module 04 🧡
-This module is designed to help you understand subtype polymorphism, abstract classes, and interfaces in C++.
+### 💛 CPP Module 05 💛
+This module is designed to help you understand try/catch and exceptions in C++.
 ## Finished Projects
 ### 0️⃣ Milestone 0
 - [Libft](https://github.com/CottonKiwii/libft)
@@ -37,6 +37,8 @@ This module is designed to help you understand subtype polymorphism, abstract cl
 - [Minishell](https://github.com/CottonKiwii/minishell)
 - [Philosophers](https://github.com/CottonKiwii/philosophers)
 ### 4️⃣ Milestone 4
-- [Cub3D](https://github.com/beng1307/Cub3d)
+- [Cub3D](https://github.com/CottonKiwii/cub3D)
 - [NetPractice](https://github.com/CottonKiwii/netpractice)
-- [CPP Modules](https://github.com/CottonKiwii/CPP_Modules)
+- [CPP Modules 0-4](https://github.com/CottonKiwii/CPP_Modules)
+### 5️⃣ Milestone 5
+- [CPP Modules 5-9](https://github.com/CottonKiwii/CPP_Modules)

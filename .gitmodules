@@ -28,3 +28,6 @@
 [submodule "CPP_Modules"]
 	path = CPP_Modules
 	url = git@github.com:CottonKiwii/CPP_Modules.git
+[submodule "cub3D"]
+	path = cub3D
+	url = git@github.com:CottonKiwii/cub3D.git

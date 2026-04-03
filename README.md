@@ -20,8 +20,8 @@ Before you even look at my code, ask yourself:
 Good luck on your projects! 💖
 
 ## Current Projects
-### 💛 CPP Module 05 💛
-This module is designed to help you understand try/catch and exceptions in C++.
+### 💜 CPP Module 08 💜
+This module is designed to help you understand templated containers, iterators, and algorithms in C++.
 ## Finished Projects
 ### 0️⃣ Milestone 0
 - [Libft](https://github.com/CottonKiwii/libft)

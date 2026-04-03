@@ -28,7 +28,7 @@ This module is designed to help you understand templated containers, iterators, 
 ### 1️⃣ Milestone 1
 - [Ft_Printf](https://github.com/CottonKiwii/ft_printf)
 - [Get_Next_Line](https://github.com/CottonKiwii/get_next_line)
-- [Born2BeRootlibft](https://github.com/CottonKiwii/born2beroot)
+- [Born2BeRoot](https://github.com/CottonKiwii/born2beroot)
 ### 2️⃣ Milestone 2
 - [Push_Swap](https://github.com/CottonKiwii/push_swap)
 - [Pipex](https://github.com/CottonKiwii/pipex)
